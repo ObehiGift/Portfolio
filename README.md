@@ -61,5 +61,5 @@ This project performed Exploratory Data Analysis on the Sakila database using SQ
 - Tableau (Interactive Dashboards, Filters, KPIs)
 -------
 
-Thank you for visiting!
+❤Thank you for visiting!
 Feel free to explore each project to see how i turned data into insights.
