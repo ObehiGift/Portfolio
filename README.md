@@ -11,6 +11,7 @@ This project explores bike sales data using Excel, pivot tables, charts and slic
 - Analyzes sales performance across different regions
 - Tools used Microsoft Excel (Pivot tables, charts, slicers)
 
+
 ### 🛒[Market Sales Analysis](https://github.com/ObehiGift/Market_sales_2019)
 
 This project focuses on analyzing marhet sales data to uncover trends and insights related to product performance, customer behavior and regional sales.
@@ -22,6 +23,7 @@ This project focuses on analyzing marhet sales data to uncover trends and insigh
     - Total sales
     - Total quantity
 - Tools used Excel, MySQL, Tableau
+
 
 ### 🎬[Netflix Data Analysis](https://github.com/ObehiGift/Netflix)
 
@@ -35,4 +37,14 @@ This project explores Netflix content library from 2008 - 2021 to uncover trends
       - Moat active year
 - Tools used MySQL, Tableau
 
-### 🌍[World Layoffs](
+------
+### 🌍[World Layoffs](https://github.com/ObehiGift/world_layoffs)
+
+This project analyzes global layoff data to uncover patterns in workforce reductions across industries, countries and companies.
+- Data cleaning done in **MySQL**
+- Exploratory Data Analysis done in **MySQL**
+- Identifies trends during economic shifts
+- Tool used **MySQL**
+
+
+### 🎥[Sakila Database](
