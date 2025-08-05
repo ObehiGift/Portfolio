@@ -69,4 +69,3 @@ This project performed Exploratory Data Analysis on the Sakila database using SQ
 ❤Thank you for visiting!
 ----------------
 Feel free to explore each project to see how i turned data into insights.
----------------------------
