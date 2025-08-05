@@ -3,4 +3,11 @@ Welcome to my data analytics portfolio! This portfolio showcases a collection of
 
 ## 📊Projects
 
-🚲[Bike Sales Dashboard(Excel)](
+🚲[Bike Sales Dashboard(Excel)](https://github.com/ObehiGift/Bike_Sales)
+This project explores bike sales data using Excel, pivot tables, charts and slicers to uncover customer and sales trend
+- Built using **Excel Pivot Tables**, charts and slicers
+- Interactive dashboard with filters by marital status, region and education
+- Analyzes sales performance across different regions
+- Tools used Microsoft Excel (Pivot tables, charts, slicers)
+
+🛒[Market Sales Analysis]
