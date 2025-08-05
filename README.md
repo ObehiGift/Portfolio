@@ -48,7 +48,7 @@ This project analyzes global layoff data to uncover patterns in workforce reduct
 - Data cleaning done in **MySQL**
 - Exploratory Data Analysis done in **MySQL**
 - Identifies trends during economic shifts
-- Tool used **MySQL**
+- Tool used MySQL
 
 
 ### 🎥[Sakila Database](https://github.com/ObehiGift/Sakila)
@@ -57,7 +57,7 @@ This project analyzes global layoff data to uncover patterns in workforce reduct
 This project performed Exploratory Data Analysis on the Sakila database using SQL to uncover insights about a DVD rental business.
 - Exploratory Data Analysis done in **MySQL**
 - Insights into rentals, customers and store performance
-- Tool used **MySQL**
+- Tool used MySQL
 
 
 ### 🛠Tools & Skills
