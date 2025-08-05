@@ -16,7 +16,7 @@ This project explores bike sales data using Excel, pivot tables, charts and slic
 ### 🛒[Market Sales Analysis](https://github.com/ObehiGift/Market_sales_2019)
 -----------
 
-This project focuses on analyzing marhet sales data to uncover trends and insights related to product performance, customer behavior and regional sales.
+This project focuses on analyzing market sales data to uncover trends and insights related to product performance, customer behavior and regional sales.
 - Data cleaning done in **Excel**
 - Exploratory Data Analysis (EDA) done in **MySQL**
 - Dashboard built in **Excel**
@@ -37,7 +37,7 @@ This project explores Netflix content library from 2008 - 2021 to uncover trends
       - Top country
       - Top genre
       - Total movies uploaded
-      - Moat active year
+      - Most active year
 - Tools used MySQL, Tableau
 
 
